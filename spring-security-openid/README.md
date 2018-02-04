@@ -17,3 +17,4 @@ mvn spring-boot:run
 
 - Once you have your client id and secret, make sure you add them to the `application.properties` of the project
 
+- to check git commit message
