@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-security-openid
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: agam
+Implementation-Vendor-Id: com.baeldung
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/spring-security-openid/
+Created-By: Maven Integration for Eclipse
+
